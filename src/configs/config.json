@@ -1,0 +1,29 @@
+{
+  "guildID": "",
+  "chat": "",
+  "unreg": "",
+  "am": "tag gir",
+  "Suspecious": "",
+  "registration": {
+    "channel": "",
+    "brace": " | ",
+    "staffs": [""],
+    "manRoles": ["",""],
+    "womanRoles": ["",""],
+    "unregRoles": [""]
+  },
+  
+  "tag": {
+    "tag": "tag gir oç",
+    "role": "",
+    "log": ""
+    
+  },
+  "jail": {
+    "channel": "burayi yarram.jsonda gire bilirsin",
+    "roles": ["burayida"] 
+  },
+  "invite": {
+    "channel": ""
+  }
+}
